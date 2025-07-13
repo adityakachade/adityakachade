@@ -21,9 +21,7 @@
 
 ## 📌 Pinned Projects
 
-[![A modern web application for tracking and analyzing plant health history with beautiful visualizations. Monitor your plants' wellbeing through intuitive dashboards, AI-powered insights, and stunning data visualizations that make plant care smarter and more rewarding than ever.
-
-](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=AgriAi)](https://github.com/adityakachade/AgriAi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=AgriAi)](https://github.com/adityakachade/AgriAi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Janhavi2212&repo=B42_WEB_018_The-Debuggers)](https://github.com/Janhavi2212/B42_WEB_018_The-Debuggers)
 
 
