@@ -3,7 +3,7 @@
 <h3 align="center">Passionate about building seamless and efficient web applications, I'm exploring the realms of both frontend and backend development. Currently working with technologies like Node.js, React, Express, MongoDB, and SQL.</h3>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chaitanya-05&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=adityakachade&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 
@@ -11,9 +11,9 @@
 
 - 💬 Ask me about java,html,css,bootstrap,sass,Javascript<br>
 
-- 📫 How to reach me cdakhale@gmail.com
+- 📫 How to reach me kachadeaditya@gmail.com
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/156QzurQz-0zukU-g8nsmHZ_MBV-uy8Q-/view?usp=sharing]
+- 📄 Know about my experiences [resume link]
 
 
 ---
@@ -21,8 +21,8 @@
 
 ## 📌 Pinned Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-05&repo=Equality-Eclipse_044)](https://github.com/Chaitanya-05/Equality-Eclipse_044)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjukumari-tech&repo=Befit-Baidu-Bandits072)](https://github.com/sanjukumari-tech/Befit-Baidu-Bandits072)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=AgriAi)](https://github.com/adityakachade/AgriAi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Janhavi2212&repo=B42_WEB_018_The-Debuggers)](https://github.com/Janhavi2212/B42_WEB_018_The-Debuggers)
 
 
 
@@ -31,15 +31,15 @@
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Chaitanya-05)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adityakachade)](https://git.io/streak-stats)
 
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/chaitanyadakhale/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chaitanya-dakhale" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/adityakachade/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityakachade" height="30" width="40" />
   </a>
   
 </a>
@@ -76,17 +76,17 @@
 
   
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya-05&theme=merko&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakachade&theme=merko&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ---
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-05&theme=merko&show_icons=true"><br/>
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-05&theme=merko&size_weight=0.15&count_weight=0.5&layout=compact">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=adityakachade&theme=merko&show_icons=true"><br/>
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakachade&theme=merko&size_weight=0.15&count_weight=0.5&layout=compact">
 </p>
  
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chaitanya-05&theme=matrix&no-frame=false&no-bg=false&margin-w=6)
+![](https://github-profile-trophy.vercel.app/?username=adityakachade&theme=matrix&no-frame=false&no-bg=false&margin-w=6)
