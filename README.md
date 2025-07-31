@@ -13,7 +13,7 @@
 
 - 📫 How to reach me kachadeaditya@gmail.com
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1zjQJTqtqj9BNR7Ze7KGGWXC3Fa2AaB_a/view?usp=drivesdk)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1A00WY0cmyn1fWhMwWF07ndFMDhtJxNfr/view?usp=drivesdk)
 
 
 ---
