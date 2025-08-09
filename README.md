@@ -1,107 +1,100 @@
 ![Header](./pic.png)
+
 <h1 align="center">Hi 👋, I'm Aditya Kachade</h1>
 <h3 align="center">Aspiring MERN Developer | Passionate about full-stack web development and clean, scalable code.</h3>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityakachade&style=for-the-badge&color=orange" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityakachade&style=for-the-badge&color=orange" alt="Profile views"/>
 </div>
 
+---
 
-#  About Me:
+## 👨‍💻 About Me
 
-- 💬 Ask me about React,Javascript,html,css,Node.js<br>
-
-- 📫 How to reach me adityakachade@gmail.com
-
-- 📄 Know about my experiences
-- (https://drive.google.com/file/d/1xZ6W2QLBSW8kG1rR-uxYgHq-xpaba1hU/view?usp=drivesdk)
+- 💬 Ask me about **React, JavaScript, HTML, CSS, Node.js**
+- 📫 Reach me at: **adityakachade@gmail.com**
+- 📄 [View my Resume](https://drive.google.com/file/d/1xZ6W2QLBSW8kG1rR-uxYgHq-xpaba1hU/view?usp=drivesdk)
 
 ---
 
 ## 📌 Pinned Projects
 
-> ✅ Projects now have clear names, meaningful descriptions, relevant tags, and demo links added in their GitHub "About" sections to enhance searchability and showcase professionalism.
+> ✅ All projects are named meaningfully, include short descriptions, tags, and live demo links (in the GitHub "About" section for each repo) to enhance visibility and professionalism.
 
 ### 🌱 [AgriAi](https://github.com/adityakachade/AgriAi)
 
-[![AgriAi](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade\&repo=AgriAi)](https://github.com/adityakachade/AgriAi)
-**Tech Stack:** React.js, Redux, CSS
+[![AgriAi](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=AgriAi)](https://github.com/adityakachade/AgriAi)
+
+**Tech Stack:** React.js, Redux, CSS  
 🔗 [Live Demo](https://agriaiapp.netlify.app)
 
-> AI-powered plant health tracker with interactive dashboards for real-time monitoring and analysis.
-> Contributed to building a user-friendly interface and responsive components that visualize AI insights for plant health and care.
+> AI-powered plant health tracking tool with interactive dashboards for real-time monitoring.  
+> Developed user-friendly interfaces to visualize plant disease predictions and insights.
 
 ---
 
 ### 💰 [FinanceTracker](https://github.com/adityakachade/FinanceTracker)
 
-[![FinanceTracker](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade\&repo=FinanceTracker)](https://github.com/adityakachade/FinanceTracker)
-**Tech Stack:** HTML, CSS, JavaScript, Firebase
+[![FinanceTracker](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=FinanceTracker)](https://github.com/adityakachade/FinanceTracker)
+
+**Tech Stack:** HTML, CSS, JavaScript, Firebase  
 🔗 [Live Demo](https://trackthefinance.netlify.app)
 
-> Responsive personal finance tracker with real-time data sync and authentication.
-> Includes features to add/edit/delete transactions and view categorized spending via a clean dashboard.
----
-
-
-## 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adityakachade)](https://git.io/streak-stats)
-
+> A simple personal finance manager to track daily transactions.  
+> Features real-time database sync, add/edit/delete transactions, and visual spending breakdowns.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/adityakachade/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityakachade" height="30" width="40" />
-  </a>
-  
+## 🔥 GitHub Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adityakachade&theme=merko&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 🤝 Connect with Me
+
+<a href="https://www.linkedin.com/in/adityakachade/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
-</p>
+---
+
+## 🧰 Languages & Tools
+
+### 🛠️ Languages
+
+| Java | JavaScript |
+|------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" /> |
+
+### 🌐 Web Technologies
+
+| HTML | CSS | Bootstrap | Sass | Tailwind CSS | Chakra UI |
+|------|-----|-----------|------|--------------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" /> | <img src="https://github.com/chakra-ui/chakra-ui/blob/main/media/logomark-colored.svg" width="50" height="50" /> |
+
+### ⚙️ Frameworks & Databases
+
+| React | Redux | Node.js | Express.js | MongoDB | MySQL |
+|-------|--------|---------|------------|---------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="50" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="50" height="50" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50" height="50" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50" height="50" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" height="50" /> |
 
 ---
 
-## Languages and Tools 
-<div>
+## 📊 GitHub Stats
 
-### Languages:
-| Java | JS | 
-|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Python"  alt="Python" width="55" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | 
-
-  
-### Web Technologies:
-
-
-| HTML | CSS | Bootstrap | Sass | Tailwind | Chakra UI | 
-|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5"  alt="html5" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="60" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="55" height="55"/>|  <img src="https://github.com/chakra-ui/chakra-ui/blob/main/media/logomark-colored.svg" title="Chakra" alt="Chakra" width="55" height="55"/>| 
-
-
-### Web Frameworks and Databases:
-
-
-| React JS | Node JS | Express JS | MongoDB | MySQL | REDUX |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node" alt="Node" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/>|
-
-
-
-  
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakachade&theme=merko&hide_border=true&border_radius=5&card_width=800">
+  <img width="600" src="https://github-readme-stats.vercel.app/api?username=adityakachade&theme=merko&show_icons=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakachade&theme=merko&layout=compact&size_weight=0.2&count_weight=0.8" alt="Top Languages"/>
 </p>
 
 ---
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=adityakachade&theme=merko&show_icons=true"><br/>
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakachade&theme=merko&size_weight=0.15&count_weight=0.5&layout=compact">
-</p>
- 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityakachade&theme=matrix&no-frame=false&no-bg=false&margin-w=6)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityakachade&theme=matrix&no-frame=false&no-bg=false&margin-w=6" alt="GitHub Trophies"/>
+</p>
