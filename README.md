@@ -33,7 +33,7 @@
 
 ### 💰 [FinanceTracker](https://github.com/adityakachade/FinanceTracker)
 
-[![FinanceTracker](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=FinanceTracker)](https://github.com/adityakachade/FinanceTracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=FinanceTracker)](https://github.com/adityakachade/FinanceTracker)
 
 **Tech Stack:** HTML, CSS, JavaScript, Firebase  
 🔗 [Live Demo](https://trackthefinance.netlify.app)
