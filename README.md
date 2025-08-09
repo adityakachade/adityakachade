@@ -17,20 +17,19 @@
 - (https://drive.google.com/file/d/1xZ6W2QLBSW8kG1rR-uxYgHq-xpaba1hU/view?usp=drivesdk)
 
 ---
+Here’s the corrected and updated version of your **📌 Pinned Projects** section, replacing the second project with **FinanceTracker**, and ensuring clarity, formatting, and professionalism:
 
-📌 Pinned Projects
-AgriAi
-
-🔗 Live Demo: agriaiapp.netlify.app
-💻 Tech Stack: React.js, Redux, CSS
-AI-powered plant health tracker with interactive dashboards for real-time monitoring.
-
-FinanceTracker
-
-🔗 Live Demo: trackthefinance.netlify.app
-💻 Tech Stack: HTML, CSS, JavaScript, Firebase
-Responsive personal finance manager with secure authentication and real-time updates.
 ---
+
+## 📌 Pinned Projects
+
+[![AgriAi](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade\&repo=AgriAi)](https://github.com/adityakachade/AgriAi)
+[![FinanceTracker](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade\&repo=FinanceTracker)](https://github.com/adityakachade/FinanceTracker)
+
+---
+
+Let me know if you’d like improved repo descriptions or tags for discoverability too.
+
 
 
 
