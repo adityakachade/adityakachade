@@ -1,6 +1,6 @@
 ![Header](./pic.png)
 <h1 align="center">Hi 👋, I'm Aditya Kachade</h1>
-<h3 align="center">Passionate about building seamless and efficient web applications, I'm exploring the realms of both frontend and backend development. Currently working with technologies like Node.js, React, Express, MongoDB, and SQL.</h3>
+<h3 align="center">Aspiring MERN Developer | Passionate about full-stack web development and clean, scalable code.</h3>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=adityakachade&style=for-the-badge&color=orange" alt=""/>
