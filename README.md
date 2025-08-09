@@ -17,20 +17,30 @@
 - (https://drive.google.com/file/d/1xZ6W2QLBSW8kG1rR-uxYgHq-xpaba1hU/view?usp=drivesdk)
 
 ---
-Here’s the corrected and updated version of your **📌 Pinned Projects** section, replacing the second project with **FinanceTracker**, and ensuring clarity, formatting, and professionalism:
-
----
 
 ## 📌 Pinned Projects
 
+> ✅ Projects now have clear names, meaningful descriptions, relevant tags, and demo links added in their GitHub "About" sections to enhance searchability and showcase professionalism.
+
+### 🌱 [AgriAi](https://github.com/adityakachade/AgriAi)
+
 [![AgriAi](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade\&repo=AgriAi)](https://github.com/adityakachade/AgriAi)
+**Tech Stack:** React.js, Redux, CSS
+🔗 [Live Demo](https://agriaiapp.netlify.app)
+
+> AI-powered plant health tracker with interactive dashboards for real-time monitoring and analysis.
+> Contributed to building a user-friendly interface and responsive components that visualize AI insights for plant health and care.
+
+---
+
+### 💰 [FinanceTracker](https://github.com/adityakachade/FinanceTracker)
+
 [![FinanceTracker](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade\&repo=FinanceTracker)](https://github.com/adityakachade/FinanceTracker)
--
+**Tech Stack:** HTML, CSS, JavaScript, Firebase
+🔗 [Live Demo](https://trackthefinance.netlify.app)
 
-
-
-
-
+> Responsive personal finance tracker with real-time data sync and authentication.
+> Includes features to add/edit/delete transactions and view categorized spending via a clean dashboard.
 ---
 
 
