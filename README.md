@@ -19,8 +19,6 @@
 
 ## 📌 Pinned Projects
 
-> ✅ All projects are named meaningfully, include short descriptions, tags, and live demo links (in the GitHub "About" section for each repo) to enhance visibility and professionalism.
-
 ### 🌱 [AgriAi](https://github.com/adityakachade/AgriAi)
 
 [![AgriAi](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=AgriAi)](https://github.com/adityakachade/AgriAi)
