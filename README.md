@@ -9,20 +9,44 @@
 
 #  About Me:
 
-- 💬 Ask me about java,html,css,bootstrap,sass,Javascript<br>
+- 💬 Ask me about React,Javascript,html,css,Node.js<br>
 
-- 📫 How to reach me kachadeaditya@gmail.com
+- 📫 How to reach me adityakachade@gmail.com
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1A00WY0cmyn1fWhMwWF07ndFMDhtJxNfr/view?usp=drivesdk)
-
+- 📄 Know about my experiences
+- (https://drive.google.com/file/d/1xZ6W2QLBSW8kG1rR-uxYgHq-xpaba1hU/view?usp=drivesdk)
 
 ---
 
-
 ## 📌 Pinned Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=AgriAi)](https://github.com/adityakachade/AgriAi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Janhavi2212&repo=B42_WEB_018_The-Debuggers)](https://github.com/Janhavi2212/B42_WEB_018_The-Debuggers)
+### [AgriAi](https://github.com/adityakachade/AgriAi)
+
+[![AgriAi](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade\&repo=AgriAi)](https://github.com/adityakachade/AgriAi)
+
+🔗 **Live Demo:** [agriaiapp.netlify.app](https://agriaiapp.netlify.app/)
+💻 **Tech Stack:** React.js, Redux, CSS
+
+* Developed a web app to monitor and analyze plant health using visual dashboards and AI insights.
+* Designed intuitive, user-friendly interfaces for efficient plant tracking and care.
+* Integrated responsive components to display AI-driven data visualizations.
+* Collaborated on seamless feature integration to enhance user experience.
+
+---
+
+### [FinanceTracker](https://github.com/adityakachade/FinanceTracker)
+
+[![FinanceTracker](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade\&repo=FinanceTracker)](https://github.com/adityakachade/FinanceTracker)
+
+🔗 **Live Demo:** [trackthefinance.netlify.app](https://trackthefinance.netlify.app/)
+💻 **Tech Stack:** HTML, CSS, JavaScript, Firebase
+
+* Built a responsive personal finance manager with real-time updates using Firebase.
+* Implemented secure user authentication and Firestore-based data handling.
+* Added features for tracking, editing, and deleting transactions.
+* Designed a dashboard to visually display income, expenses, and category-wise spending.
+
+---
 
 
 
