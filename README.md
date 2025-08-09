@@ -23,7 +23,7 @@
 
 [![AgriAi](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=AgriAi)](https://github.com/adityakachade/AgriAi)
 
-**Tech Stack:** React.js, Redux, CSS  
+**Tech Stack:** React.js,CSS  
 🔗 [Live Demo](https://agriaiapp.netlify.app)
 
 > AI-powered plant health tracking tool with interactive dashboards for real-time monitoring.  
