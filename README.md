@@ -18,10 +18,18 @@
 
 ---
 
-## 📌 Pinned Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=AgriAi)](https://github.com/adityakachade/AgriAi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Janhavi2212&repo=B42_WEB_018_The-Debuggers)](https://github.com/Janhavi2212/B42_WEB_018_The-Debuggers)
+📌 Pinned Projects
+AgriAi
 
+🔗 Live Demo: agriaiapp.netlify.app
+💻 Tech Stack: React.js, Redux, CSS
+AI-powered plant health tracker with interactive dashboards for real-time monitoring.
+
+FinanceTracker
+
+🔗 Live Demo: trackthefinance.netlify.app
+💻 Tech Stack: HTML, CSS, JavaScript, Firebase
+Responsive personal finance manager with secure authentication and real-time updates.
 ---
 
 
