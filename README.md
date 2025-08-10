@@ -23,23 +23,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=AgriAi&cache_bust=1)](https://github.com/adityakachade/AgriAi)
 
-**Tech Stack:** React.js, CSS  
-🔗 [Live Demo](https://agriaiapp.netlify.app)
-
-> AI-powered plant health tracking tool with interactive dashboards for real-time monitoring.  
-> Developed user-friendly interfaces to visualize plant disease predictions and insights.
-
 ---
 
 ### 💰 [FinanceTracker](https://github.com/adityakachade/FinanceTracker)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=FinanceTracker&cache_bust=1)](https://github.com/adityakachade/FinanceTracker)
-
-**Tech Stack:** HTML, CSS, JavaScript, Firebase  
-🔗 [Live Demo](https://trackthefinance.netlify.app)
-
-> A simple personal finance manager to track daily transactions.  
-> Features real-time database sync, add/edit/delete transactions, and visual spending breakdowns.
 
 ---
 
