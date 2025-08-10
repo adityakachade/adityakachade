@@ -24,10 +24,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=AgriAi&cache_bust=1)](https://github.com/adityakachade/AgriAi)
 
 ---
-
 ### 💰 [FinanceTracker](https://github.com/adityakachade/FinanceTracker)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=FinanceTracker&cache_bust=1)](https://github.com/adityakachade/FinanceTracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=FinanceTracker&cache_bust=2)](https://github.com/adityakachade/FinanceTracker)
 
 ---
 
