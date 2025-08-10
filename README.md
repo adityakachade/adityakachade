@@ -8,25 +8,16 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
-I'm an aspiring **MERN Stack Developer** who loves building full-stack web applications. My interests lie in creating responsive, scalable, and accessible user experiences using modern web technologies.
-
-- 🔭 Currently learning **Next.js**, **TypeScript**, and advanced **MongoDB optimizations**
-- 💬 Ask me about **React, JavaScript, HTML, CSS, Node.js**
-- 📫 Reach me at: **adityakachade@gmail.com**
-- 📄 [View my Resume](https://drive.google.com/file/d/1xZ6W2QLBSW8kG1rR-uxYgHq-xpaba1hU/view?usp=drivesdk)
-
+- 🚀 **MERN Stack Developer** (MongoDB, Express.js, React.js, Node.js)  
+- 🌐 Proficient in **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, and **Chakra UI**  
+- 🛠 Experienced with tools like **Git**, **GitHub**, **Firebase**, **Postman**, and **VS Code**  
+- 📫 Reach me at: [**adityakachade@gmail.com**](mailto:adityakachade@gmail.com)  
+- 📄 [**View My Resume**](https://drive.google.com/file/d/1xZ6W2QLBSW8kG1rR-uxYgHq-xpaba1hU/view?usp=drivesdk)
 ---
 
 ## 📌 Pinned Projects
-
-> ✅ **Tip:** Make sure each GitHub repo (like AgriAi, FinanceTracker) has:
-> - A short description in the GitHub **"About"** section (top-right of the repo)
-> - Proper **topics/tags** like `react`, `firebase`, `mern`, `webapp` etc.  
-> This improves search visibility and adds context.
-
 ---
 
 ### 🌱 [AgriAi](https://github.com/adityakachade/AgriAi)
