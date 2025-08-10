@@ -18,6 +18,9 @@
 
 ## 📌 Pinned Projects
 
+### 🌱 [AgriAi](https://github.com/adityakachade/AgriAi)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=AgriAi)](https://github.com/adityakachade/AgriAi)
 
 **Tech Stack:** React.js,CSS  
 🔗 [Live Demo](https://agriaiapp.netlify.app)
