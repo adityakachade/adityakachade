@@ -1,4 +1,5 @@
 ![Header](./pic.png)
+
 <h1 align="center">Hi 👋, I'm Aditya Kachade</h1>
 <h3 align="center">Aspiring MERN Developer | Passionate about full-stack web development and clean, scalable code.</h3>
 
@@ -17,13 +18,12 @@
 ---
 
 ## 📌 Pinned Projects
+
 ### 🌱 [AgriAi](https://github.com/adityakachade/AgriAi)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=AgriAi&cache_bust=1)](https://github.com/adityakachade/AgriAi)
 
-)](https://github.com/adityakachade/AgriAi)
-
-**Tech Stack:** React.js,CSS  
+**Tech Stack:** React.js, CSS  
 🔗 [Live Demo](https://agriaiapp.netlify.app)
 
 > AI-powered plant health tracking tool with interactive dashboards for real-time monitoring.  
@@ -33,7 +33,7 @@
 
 ### 💰 [FinanceTracker](https://github.com/adityakachade/FinanceTracker)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=FinanceTracker)](https://github.com/adityakachade/FinanceTracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=FinanceTracker&cache_bust=1)](https://github.com/adityakachade/FinanceTracker)
 
 **Tech Stack:** HTML, CSS, JavaScript, Firebase  
 🔗 [Live Demo](https://trackthefinance.netlify.app)
