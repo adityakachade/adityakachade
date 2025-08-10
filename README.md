@@ -19,28 +19,16 @@
 
 ## 📌 Pinned Projects
 ---
-
-### 🌱 [AgriAi](https://github.com/adityakachade/AgriAi)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=AgriAi&cache_bust=1)](https://github.com/adityakachade/AgriAi)
 
 **Tech Stack:** React.js, CSS  
 🔗 [Live Demo](https://agriaiapp.netlify.app)
 
-> A smart web app for detecting plant diseases using AI.  
-> Includes real-time dashboards and visualizations for tracking plant health.
-
 ---
-
-### 💰 [FinanceTracker](https://github.com/adityakachade/FinanceTracker)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=FinanceTracker&cache_bust=2)](https://github.com/adityakachade/FinanceTracker)
 
 **Tech Stack:** HTML, CSS, JavaScript, Firebase  
 🔗 [Live Demo](https://trackthefinance.netlify.app)
-
-> A personal expense tracker that helps users manage daily transactions.  
-> Features include add/edit/delete entries, pie chart analytics, and real-time Firebase sync.
 
 ---
 
