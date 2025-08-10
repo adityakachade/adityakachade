@@ -1,5 +1,4 @@
 ![Header](./pic.png)
-
 <h1 align="center">Hi 👋, I'm Aditya Kachade</h1>
 <h3 align="center">Aspiring MERN Developer | Passionate about full-stack web development and clean, scalable code.</h3>
 
