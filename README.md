@@ -11,6 +11,9 @@
 
 ## 👨‍💻 About Me
 
+I'm an aspiring **MERN Stack Developer** who loves building full-stack web applications. My interests lie in creating responsive, scalable, and accessible user experiences using modern web technologies.
+
+- 🔭 Currently learning **Next.js**, **TypeScript**, and advanced **MongoDB optimizations**
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Node.js**
 - 📫 Reach me at: **adityakachade@gmail.com**
 - 📄 [View my Resume](https://drive.google.com/file/d/1xZ6W2QLBSW8kG1rR-uxYgHq-xpaba1hU/view?usp=drivesdk)
@@ -19,14 +22,34 @@
 
 ## 📌 Pinned Projects
 
+> ✅ **Tip:** Make sure each GitHub repo (like AgriAi, FinanceTracker) has:
+> - A short description in the GitHub **"About"** section (top-right of the repo)
+> - Proper **topics/tags** like `react`, `firebase`, `mern`, `webapp` etc.  
+> This improves search visibility and adds context.
+
+---
+
 ### 🌱 [AgriAi](https://github.com/adityakachade/AgriAi)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=AgriAi&cache_bust=1)](https://github.com/adityakachade/AgriAi)
 
+**Tech Stack:** React.js, CSS  
+🔗 [Live Demo](https://agriaiapp.netlify.app)
+
+> A smart web app for detecting plant diseases using AI.  
+> Includes real-time dashboards and visualizations for tracking plant health.
+
 ---
+
 ### 💰 [FinanceTracker](https://github.com/adityakachade/FinanceTracker)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakachade&repo=FinanceTracker&cache_bust=2)](https://github.com/adityakachade/FinanceTracker)
+
+**Tech Stack:** HTML, CSS, JavaScript, Firebase  
+🔗 [Live Demo](https://trackthefinance.netlify.app)
+
+> A personal expense tracker that helps users manage daily transactions.  
+> Features include add/edit/delete entries, pie chart analytics, and real-time Firebase sync.
 
 ---
 
